@@ -42,6 +42,10 @@ Mctat was developed and tested on Linux (Fedora 17-21), but is believed to also 
 - zip
 - The usual suspects like awk, diff and grep
 
+### Note on Minecraft
+
+This tool was last tested for Minecraft 1.7 resources. Minecraft-related functionality, such as automatic launching and logging in was tested with the old Minecraft Launcher and might not work anymore. However, since resource packs can now be reloaded ingame, this should not prove to be an issue.
+
 ## Disclaimer
 
 - Minecraft is a Sandbox Game by Mojang.
