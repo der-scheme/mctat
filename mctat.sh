@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 #    Tools for Minecraft Texture Artists
-#    Copyright (c) 2012 - 2013 Sebastian Dufner
+#    Copyright (c) 2012 - 2015 Sebastian Dufner
 #
 #    This program is free software: you can redistribute it and/or modify
 #    it under the terms of the GNU General Public License as published by
@@ -327,7 +327,7 @@ print_usage ()
 
 print_version ()
 {
-    echo "'$name $version' Copyright (c) 2012 Sebastian Dufner"
+    echo "'$name $version' Copyright (c) 2012 - 2015 Sebastian Dufner"
     echo "This program comes with ABSOLUTELY NO WARRANTY. This is free software, and you"
     echo "are welcome to redistribute it under the terms of the GNU General Public"
     echo "License."
